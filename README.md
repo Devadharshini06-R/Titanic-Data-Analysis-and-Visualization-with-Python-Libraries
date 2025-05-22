@@ -1,6 +1,5 @@
 # 📊Titanic-Data-Analysis-and-Visualization-with-Python-Libraries
 
-# 📊 Titanic Dataset Analysis using Python
 
 This project performs exploratory data analysis (EDA) on the Titanic dataset using Python libraries like **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**.
 
@@ -90,17 +89,6 @@ The dataset used is the **Titanic Dataset**, commonly used for machine learning 
 
 To understand the data and derive visual insights into survival patterns, missing values, and relationships among various features of Titanic passengers.
 
----
-
-## 📷 Sample Visuals
-
-> *(You can add screenshots of your visualizations here)*
-
----
-
-## 📬 Contact
-
-For any questions or feedback, feel free to reach out!
 
 ---
 
